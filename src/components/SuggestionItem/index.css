@@ -1,0 +1,19 @@
+.list-container {
+  display: flex;
+  align-items: center;
+}
+.search-suggestion {
+  color: #475569;
+  font-family: 'Lato';
+  font-size: 15px;
+  flex-grow: 1;
+}
+.arrow-img {
+  width: 20px;
+  height: 20px;
+}
+.btn {
+  background-color: transparent;
+  border-width: 0px;
+  cursor: pointer;
+}
